@@ -1,0 +1,24 @@
+button{
+    cursor: pointer;
+    height:25pt;
+    font-size: 15pt;
+    margin-bottom: 20pt;
+    border: 1pt solid black;
+    border-radius: 8pt;
+
+    
+}
+
+
+.modal{
+    width: 300pt;
+    height: 300pt;
+    border: 2px solid pink;
+    display: none;
+    background: black;
+    opacity: 0.5;
+    color: red;
+    border-radius: 8pt;
+}
+
+ 

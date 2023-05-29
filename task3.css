@@ -1,0 +1,15 @@
+#nums{
+    border: 2pt solid ;
+    font-size: 15pt;
+    margin-bottom: 20pt;
+
+}
+
+#btn{
+    
+    font-size: 15pt;
+    border: 2pt solid;
+    border-radius: 8pt;
+    cursor: pointer;
+
+}

@@ -1,0 +1,14 @@
+#color{
+    border: 2px solid black;
+    font-size: 15pt;
+    margin-bottom: 20pt;
+    
+}
+
+#btn{
+    height: 25pt;
+    border: 2px solid black;
+    border-radius: 8pt;
+    font-size: 15pt;
+}
+
